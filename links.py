@@ -1,4 +1,3 @@
-!pip install pyshorteners
 import streamlit as st
 import pyshorteners
 import time
