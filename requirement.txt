@@ -1,3 +1,2 @@
-streamlit
-pyshorteners
-time
+streamlit==1.25.0
+pyshorteners==1.0.1
